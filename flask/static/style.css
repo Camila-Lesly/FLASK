@@ -1,0 +1,31 @@
+/* Custom styles for Flask app using Bootstrap */
+body {
+    background-color: #f8f9fa;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #343a40;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.alert-info {
+    color: #084298;
+    background-color: #cfe2ff;
+    border-color: #b6d4fe;
+}
